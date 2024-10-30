@@ -39,7 +39,7 @@ You must have python installed version 3.7 or higher
 Now you can install this project as library:
 
 ```bash
-pip install -U https://codeload.github.com/luckyscooby/pyqoptionapi/zip/refs/heads/master
+pip install -U https://codeload.github.com/luckyscooby/pyqoptionapi/zip/refs/heads/legacy
 ```
 
 ```Python
